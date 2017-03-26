@@ -1,10 +1,12 @@
 #include <iostream>
+
+
 using namespace std;
 
 int main()
 {
     int nilai,hasil;
-    cout<<"menentukan ganjil dan genap"<<endl<<"kangghani.com"<<endl;
+    cout<<"menentukan ganjil dan genap"<<endl;
     cout<<"masukkan nilainya = ";
     cin>>nilai;
     hasil=nilai%2;
