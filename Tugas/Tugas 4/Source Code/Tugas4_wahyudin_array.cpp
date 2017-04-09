@@ -2,6 +2,7 @@
 
 using namespace std;  //pembungkus struktur coding/namespace
 
+
 int main(){  //mulai menjalankan
 	char a[10];  //membuat variable a dengan char
 	int b=0;  //membuat variable b dengan tipe intger
@@ -21,4 +22,6 @@ int main(){  //mulai menjalankan
 	cout<<"jumlah karakter nya : "<<c<<endl;	//menampilkan output string dan isi nilai variable c
 }
 
+
+//
 // created by wahyudin in sttBandung organitation
