@@ -1,0 +1,2 @@
+window loader
+memperbaiki window
